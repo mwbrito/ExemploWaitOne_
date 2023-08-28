@@ -1,0 +1,17 @@
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\bin\Debug\net6.0\ExemploWaitOne_.exe
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\bin\Debug\net6.0\ExemploWaitOne_.deps.json
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\bin\Debug\net6.0\ExemploWaitOne_.runtimeconfig.json
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\bin\Debug\net6.0\ExemploWaitOne_.dll
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\bin\Debug\net6.0\ExemploWaitOne_.pdb
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\bin\Debug\net6.0\Serilog.dll
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.csproj.AssemblyReference.cache
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.AssemblyInfoInputs.cache
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.AssemblyInfo.cs
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.csproj.CoreCompileInputs.cache
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.csproj.CopyComplete
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.dll
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\refint\ExemploWaitOne_.dll
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.pdb
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ExemploWaitOne_.genruntimeconfig.cache
+C:\Users\notebook\source\repos\ExemploWaitOne\ExemploWaitOne_\obj\Debug\net6.0\ref\ExemploWaitOne_.dll
